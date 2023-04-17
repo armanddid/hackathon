@@ -1,0 +1,11 @@
+.mainContainer{
+    box-sizing: border-box;
+    margin: 0px auto;
+    min-width: 400px;
+    width: 100%;
+    padding: 0px 32px;
+    max-width: 560px;
+    position: relative;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
